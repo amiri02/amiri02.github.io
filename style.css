@@ -67,7 +67,8 @@ a:active {color: #423737;}
 /* img related */
 
 img {
-width: 100%;
+width: 50%;
+height: 50%;
 border-radius: 18px;
 
 }
