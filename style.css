@@ -9,25 +9,21 @@ letter-spacing: ;
 margin: 0;
 padding: 20px 0 0 0;
 }
-
 body {
 font-family: helvetica, sans-serif;
 font-size: 18px;
 margin: 0;
 }
-
 header {
 height: 120px;
 background-color: #474633;
 text-align: center;
 }
-
 footer {
 background-color: #474633;
 }
-
 section {
-padding: 0 15%;
+padding: 0 25%;
 margin: 40px 0;
 }
 
@@ -40,14 +36,12 @@ font-size: 20px;
 text-align: center;
 margin: 0;
 }
-
 h1, h2, h3 {
 font-family: sans-serif;
 color: #333a34;
 text align: center;
 font-weight: 400;
 }
-
 h1 {font-size: 22px; }
 h2 {font-size: 40px; }
 h3 {font-size: px; }
@@ -57,14 +51,12 @@ font-family: helvetica, sans-sarif;
 line-height: 2em;
 margin-bottom: 0;
 }
-
 footer p {
 color: #fff;
 text-align: center;
 padding: 40px;
 margin: 0;
 }
-
 a:link {color: #474633;}
 a:visited {color: #474633;}
 a:hover {color: #423737;}
